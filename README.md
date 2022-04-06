@@ -2,6 +2,13 @@
 
 Much of my programming experience is in Java, however I also have experience in C, Python, and HTML/CSS, and I am learning JavaScript and Swift through projects I am currently working on.
 
+#### Below are some projects I am working on or have completed.
+* Checkers (WIP) - Creating a Checkers game in JavaScript that will eventually support the user playing against an AI opponent.
+* Personal Website (WIP) - Displaying personal projects and my resume in a digital portfolio format.
+* Image Editor
+* Freecell Solitaire
+* Maze Solver
+
 <!--
 **mattkeefer/mattkeefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
