@@ -1,6 +1,6 @@
 👋 Hi there! My name is **Matt (he/him)**, and I am a second year ***Computer Science major*** and ***Math minor*** at **Northeastern University**. I am currently living in Boston, MA and am looking for a full-time software engineering co-op from July-December 2022.
 
-Much of my programming experience is in ⚡Java, however I also have experience in C, Python, and 🌐HTML/CSS, and I am learning 💥JavaScript and Swift through projects I am currently working on.
+Much of my programming experience is in ⚡Java, however I also have programming experience in C, Python, and 🌐HTML/CSS, and I am learning 💥JavaScript and Swift through projects I am currently working on.
 
 #### Below are some projects I am working on or have completed.
 * 💥Checkers (WIP) [JavaScript] - Checkers game that will eventually support the user playing against an AI opponent.
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-💥🌐
+💥🌐🪐🌟🔥💡
 
 -->
