@@ -3,11 +3,11 @@
 Much of my programming experience is in Java, however I also have experience in C, Python, and HTML/CSS, and I am learning JavaScript and Swift through projects I am currently working on.
 
 #### Below are some projects I am working on or have completed.
-* Checkers (WIP) - Creating a Checkers game in JavaScript that will eventually support the user playing against an AI opponent.
-* Personal Website (WIP) - Displaying personal projects and my resume in a digital portfolio format.
-* Image Editor
-* Freecell Solitaire
-* Maze Solver
+* Checkers (WIP) [JavaScript] - Checkers game that will eventually support the user playing against an AI opponent.
+* Personal Website (WIP) [HTML/CSS/JavaScript] - Will eventually display personal projects and my resume in a digital portfolio format.
+* Image Editor [Java] - Simple image editor allowing user to apply various filters and effects to images. (code available on request)
+* Freecell Solitaire [Java] - Text-based freecell solitaire game. (code available on request)
+* Maze Solver [Java] - Generates a random maze that a user can attempt to solve. Also shows the correct path in either a depth-first or breadth-first search, animating the search process. (code available on request)
 
 <!--
 **mattkeefer/mattkeefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
