@@ -4,7 +4,7 @@ Much of my programming experience is in ⚡Java, however I also have programming
 
 #### Below are some projects I am working on or have completed.
 * Checkers (WIP) [JavaScript] 💥 Checkers game that will eventually support the user playing against an AI opponent.
-* Personal Website (WIP) [HTML/CSS/JavaScript] 🌐 Will eventually display personal projects and my resume in a digital portfolio format.
+* Personal Website (WIP) [HTML/CSS/JavaScript] 🌐 Digital portfolio which will eventually display personal projects and my resume.
 * Image Editor [Java] ⚡ Simple image editor allowing user to apply various filters and effects to images. (code available on request)
 * Freecell Solitaire [Java] ⚡ Text-based freecell solitaire game. (code available on request)
 * Maze Solver [Java] ⚡ Generates a random maze that a user can attempt to solve. Also shows the correct path in either a depth-first or breadth-first search, animating the search process. (code available on request)
