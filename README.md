@@ -1,4 +1,4 @@
-👋 Hi there! My name is **Matt**, and I am a third year ***Computer Science major*** and ***Math minor*** at **Northeastern University**. I am currently living in Boston, MA and am looking for a full-time software engineering co-op from July-December 2023.
+👋 Hi there! My name is **Matt**, and I am a rising fourth year ***Computer Science major*** and ***Math minor*** at **Northeastern University**. I am currently living in Boston, MA and am looking for a full-time software engineering co-op from July-December 2023.
 
 Much of my programming experience is in Java, Python, and TypeScript which you can see through some of my personal and class projects below.
 
